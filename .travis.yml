@@ -10,5 +10,5 @@ cache:
 jdk:
   - oraclejdk8
   
-script:
-  - chmod 755 gradlew
+before_install:
+ - chmod +x gradlew
