@@ -9,3 +9,6 @@ cache:
     
 jdk:
   - oraclejdk8
+  
+script:
+  - chmod 755 gradlew
