@@ -8,5 +8,6 @@ public class GitGuideApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitGuideApplication.class, args);
+        System.out.println("Hello Git");
     }
 }
