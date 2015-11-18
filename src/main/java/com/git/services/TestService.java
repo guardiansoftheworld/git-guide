@@ -24,7 +24,6 @@
  * If you don't have permission , MUST not be published,
  * broadcast, rewritten for broadcast or publication
  * or redistributed directly or indirectly in any medium.
- * 
  */
 
 package com.git.services;
@@ -35,4 +34,7 @@ package com.git.services;
  */
 public class TestService {
 
+    public void deadService() {
+
+    }
 }
