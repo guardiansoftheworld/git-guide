@@ -8,3 +8,5 @@ Merge feature branch with Dev
 -- git fetch origin <targetbranch>
 
 -- git merge FETCH_HEAD
+
+Wiki -> http://venkatesha.github.io/git-guide/
